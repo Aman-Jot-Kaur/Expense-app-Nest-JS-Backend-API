@@ -6,6 +6,7 @@ topics i covered in this expense tracker api backend:<br/>
 2)creating our own interceptors<br/>
 3)Crud operations in nest js<br/>
 
+Run the project:<br>
 <b>npm i</b><br/>
 </b>npm run start:dev</b><br/>
 
